@@ -1,0 +1,14 @@
+body
+{
+    background-color: papayawhip;
+}h1, h2, h3, h4, h5, p, normal, b, ul, z, dt, dd
+{
+    font-weight: Bold;
+    font-family: "Serifa BT" , "Comic Sans MS" , "arial";
+    color: #000099;
+}li
+{
+    font-weight: Bold;
+    font-family: "Serifa BT" , "Comic Sans MS" , "arial";
+    color: #000099;
+}
